@@ -13,8 +13,8 @@ Les exemples d'applications concernent le NLP ainsi qu'un moteur de recommandati
 
 Les notebooks ont été initiallement conçus pour Python 2 et ne fonctionnaient pas sur ma machine en Python 3.
 
-L'avenir étant à Python 3, J'ai transformé les notebooks pour les rendres compatibles PYTHON 3, avec notamment les changements principaux suivants:
-1. Fix de l'erreur lors de l'unpacking des tuples dans les fonction lambda (a ce jour, Python 3 n'acceptait pas l'unpacking à l'intérieur des fonctions lambda, pourtant très pratique. Ai du contourner le problème. 
+L'avenir étant à Python 3, J'ai transformé les notebooks pour les rendre compatibles PYTHON 3, avec notamment les changements principaux suivants:
+1. Fix de l'erreur lors de l'unpacking des tuples dans les fonction lambda (à ce jour, Python 3 n'acceptait pas l'unpacking à l'intérieur des fonctions lambda, pourtant très pratique.  
 2. Modifs des cellules utilisant Xrange (deprecié en Python 3 au profit de Range)
 3. Fix des parenthèses dans les fonction print
 
